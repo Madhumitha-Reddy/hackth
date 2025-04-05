@@ -1,0 +1,8 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="#a855f7" stroke="#7e22ce" stroke-width="3" />
+  <text x="50" y="35" font-family="Arial" font-size="10" fill="white" text-anchor="middle">SUBSTANCE</text>
+  <text x="50" y="50" font-family="Arial" font-size="10" fill="white" text-anchor="middle">EXPERT</text>
+  <path d="M40,60 L40,70 L60,70 L60,60 L55,60 L55,55 L45,55 L45,60 Z" fill="white" />
+  <path d="M45,55 L45,45 C45,40 55,40 55,45 L55,55" fill="none" stroke="white" stroke-width="2" />
+</svg>
